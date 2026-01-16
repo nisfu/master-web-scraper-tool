@@ -17,6 +17,13 @@ Alat otomatisasi berbasis web untuk mengekstrak informasi (Judul, Link, dan Kont
 
 ---
 
+# 🚀 Master Web Scraper Dashboard
+
+### 🔗 [KLIK DI SINI UNTUK COBA DEMO APLIKASI](https://master-web-scraper-tool-1.streamlit.app/)
+
+
+---
+
 ## 🛠️ Tech Stack
 - **Python**: Bahasa utama.
 - **BeautifulSoup4**: Library untuk parsing HTML dan ekstraksi data.
